@@ -1,8 +1,3 @@
-# python-f2020-datasci-assignment-practice
-
-Different directory contents:
-1-a:
-
 1.	Write your name and relevant info in the first cell as follow: 
 
 2.	Import the biostats.csv file and place it in an appropriate dataset. (2 points)
